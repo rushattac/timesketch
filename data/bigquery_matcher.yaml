@@ -1,7 +1,7 @@
 #
 # Configuration file for the BigQuery matcher analyzer plugin.
 # 
-# You can configure several matchers. They should look like this:
+# You can onfigure several matchers. They should look like this:
 #
 # matcher_name:
 #     event_field_name: sha256_hash
